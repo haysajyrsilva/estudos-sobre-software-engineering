@@ -1,4 +1,4 @@
-# estudos-sobre-software-engineering
+# Estudos sobre Software Engineering
 Esse repositório contém referências de leituras que vão contribuir com seu conhecimento para ser uma melhor pessoa desenvolvedora.
 
 # Livros
