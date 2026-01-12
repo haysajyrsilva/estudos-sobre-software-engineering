@@ -12,3 +12,6 @@ Esse repositório contém referências de leituras que vão contribuir com seu c
 # Vídeos
 1. [Playlist: Engenharia de Software Moderna - Prof. Marco Tulio Valente](https://www.youtube.com/playlist?list=PLG3uPXIK2J8u6PQWSIUJuph_Q5oFWFqNQ)
 
+# Padrões & Arquitetura
+1. [Arquitetura Hexagonal](https://www.youtube.com/playlist?list=PLNCSWIsR6ADL_qsxAayXkSzzCCf2xlIy9)
+
