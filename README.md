@@ -4,6 +4,7 @@ Esse repositório contém referências de leituras que vão contribuir com seu c
 # Livros
 - [Engenharia de Software Moderna](https://www.amazon.com.br/Engenharia-Software-Moderna-Desenvolvimento-Produtividade-ebook/dp/B086K5QJ9V/ref=tmm_kin_swatch_0)
 - [Engenharia de Software Moderna - Versão gratuita](https://engsoftmoderna.info/cap0.html)
+- [Um dos melhores sobre system design: SYSTEM DESIGN - The big archive](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
 
 # Artigos
 - [No Silver Bullet - Essence and Accident in Software Engineering](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf)
